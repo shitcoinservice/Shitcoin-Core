@@ -46,7 +46,7 @@
 
 * Official WEB page : https://www.shitcoin.cash
 * Official Facebook page : https://www.facebook.com/Shitcoin-320222178820591/
-* Shitcoin Explorer : http://www.explorer.shitcoin.cash/
+* Shitcoin Explorer : https://www.explorer.shitcoin.cash/
 * Discord Invite link : https://discord.gg/GqJsCep
 
 
