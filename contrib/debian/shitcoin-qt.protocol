@@ -1,0 +1,11 @@
+[Protocol]
+exec=shitcoin-qt '%u'
+protocol=shitcoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

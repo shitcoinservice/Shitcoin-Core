@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Shitcoin
+Comment=Shitcoin P2P Cryptocurrency
+Comment[fr]=Shitcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Shitcoin, eşten eşe kriptografik sanal para birimi
+Exec=shitcoin-qt %u
+Terminal=false
+Type=Application
+Icon=shitcoin128
+MimeType=x-scheme-handler/shitcoin;
+Categories=Office;Finance;

@@ -1,0 +1,17 @@
+** Building Shitcoin Core V1.0.0 **
+
+
+Use the guides provided in :
+
+`ShitcoinCore-UNIX-TO-WIN`
+`ShitcoinCore-UNIX`... 
+
+or you just can use the autogen script to prepare the build environment.
+
+    ./autogen.sh
+    ./configure
+    make
+
+Always verify the signatures and checksums.
+
+

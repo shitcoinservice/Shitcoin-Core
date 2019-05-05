@@ -1,0 +1,30 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/shitcoin_bg.qm</file>
+        <file alias="ca">locale/shitcoin_ca.qm</file>
+        <file alias="cs">locale/shitcoin_cs.qm</file>
+        <file alias="da">locale/shitcoin_da.qm</file>
+        <file alias="de">locale/shitcoin_de.qm</file>
+        <file alias="en">locale/shitcoin_en.qm</file>
+        <file alias="en_US">locale/shitcoin_en_US.qm</file>
+        <file alias="es">locale/shitcoin_es.qm</file>
+        <file alias="fi">locale/shitcoin_fi.qm</file>
+        <file alias="fr_FR">locale/shitcoin_fr_FR.qm</file>
+        <file alias="hr">locale/shitcoin_hr.qm</file>
+        <file alias="it">locale/shitcoin_it.qm</file>
+        <file alias="ja">locale/shitcoin_ja.qm</file>
+        <file alias="ko_KR">locale/shitcoin_ko_KR.qm</file>
+        <file alias="nl">locale/shitcoin_nl.qm</file>
+        <file alias="pl">locale/shitcoin_pl.qm</file>
+        <file alias="pt">locale/shitcoin_pt.qm</file>
+        <file alias="pt_BR">locale/shitcoin_pt_BR.qm</file>
+        <file alias="ro_RO">locale/shitcoin_ro_RO.qm</file>
+        <file alias="ru">locale/shitcoin_ru.qm</file>
+        <file alias="sk">locale/shitcoin_sk.qm</file>
+        <file alias="sv">locale/shitcoin_sv.qm</file>
+        <file alias="tr">locale/shitcoin_tr.qm</file>
+        <file alias="uk">locale/shitcoin_uk.qm</file>
+        <file alias="zh_CN">locale/shitcoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/shitcoin_zh_TW.qm</file>
+    </qresource>
+</RCC>
